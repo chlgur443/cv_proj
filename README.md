@@ -247,4 +247,4 @@ SAVED_MODEL_PATH = '/content/best_model_resnet_augTrue_preFalse.pth'
 IMAGE_PATH = '/content/my_photo.jpg' # 단체 사진 파일명
 ```
 
-저장결과는 colab content폴더에 final_yolo_result.jpg로 저장된다.
+실행결과는 colab content폴더에 final_yolo_result.jpg로 저장된다.
